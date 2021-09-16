@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "cxHjgBX4KyDXjiNa+FskiA14G2U2+De9ISRjH1kxSxCRvUM9+yqbmWrNJGz7PtZz6fcGHgOMfmbbDbqdrkDGyA==",
+  "dgSpecHash": "N1zT8WDYChWnuijekyrIf6XKuQ7bjijgXUb7GFGOqhykI2waW21KaU95J9dNaVY4sRsPeun/aKLfMHAj6SWtZg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Administrator\\Source\\Repos\\AiimiApi\\UsersApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnet.razor\\3.2.7\\microsoft.aspnet.razor.3.2.7.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnet.webpages\\3.2.7\\microsoft.aspnet.webpages.3.2.7.nupkg.sha512",
-    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.web.infrastructure\\1.0.0\\microsoft.web.infrastructure.1.0.0.nupkg.sha512"
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.web.infrastructure\\1.0.0\\microsoft.web.infrastructure.1.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512"
   ],
   "logs": [
     {
